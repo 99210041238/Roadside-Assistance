@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Roadside-Assistance/static/css/main.a9ae5230.css",
+    "main.js": "/Roadside-Assistance/static/js/main.40b14f6e.js",
+    "index.html": "/Roadside-Assistance/index.html",
+    "main.a9ae5230.css.map": "/Roadside-Assistance/static/css/main.a9ae5230.css.map",
+    "main.40b14f6e.js.map": "/Roadside-Assistance/static/js/main.40b14f6e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9ae5230.css",
+    "static/js/main.40b14f6e.js"
+  ]
+}
